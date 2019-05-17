@@ -1,7 +1,7 @@
 # Integrating React app with AEM Single Page Application editor
 
 Follow the video tutorial below for step by step guide on integrating an existing react application with AEM SPA editor
-[https://www.youtube.com/watch?v=AA992LJmdtM](https://www.youtube.com/watch?v=AA992LJmdtM)
+[https://www.youtube.com/watch?v=FSwBrx7aNWA](https://www.youtube.com/watch?v=FSwBrx7aNWA)
 
 To install the complete application and explore, do the following
 
